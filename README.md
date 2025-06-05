@@ -37,13 +37,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafamahmoud96/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
----
-
-> 🎯 Bonus Tip: Pin your best repos to the top of your profile.
-
----
-
-### 🔁 Add Interactivity (Optional)
-Add GitHub profile visitors count:
-
 ```markdown
