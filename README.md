@@ -30,12 +30,6 @@
   <img src="https://streak-stats.demolab.com?user=mostafamahmoud96&theme=radical" />
 </p>
 
----
-
-### 📂 Projects
-- ✅ [LMS Backend API](https://github.com/mostafamahmoud96/LMS-backend)
-- 📦 [SMS Integration Example](#) *(You can link your CM.com or Cequens work here)*
-- 📘 [PayFort Integration (No Package)](#)
 
 ---
 
@@ -53,4 +47,3 @@
 Add GitHub profile visitors count:
 
 ```markdown
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mostafamahmoud96)
